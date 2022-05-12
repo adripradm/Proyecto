@@ -1,0 +1,21 @@
+scrap=pd.read_csv('result2.csv')
+scrap.rename({'0':'make'}, axis=1, inplace=True)
+scrap.kms=scrap.kms.replace('NUEVO',0)
+scrap.shape
+
+prueba=pd.concat([entreno[columnas],scrap])
+prueba.dropna(axis=0, inplace=True)
+X_rfr_prueba=prueba.drop('price', axis=1)
+y_rfr_prueba=prueba.price
+
+X_rfr_prueba[['year','kms','power','doors']]=scaler.fit_transform(X_rfr_prueba[['year','kms','power','doors']])
+X_rfr_prueba=pd.get_dummies(X_rfr_prueba, columns=['make','model','fuel','shift','is_professional','province'], drop_first=True)
+
+prueba_dum=X_rfr_prueba[-scrap.shape[0]:]
+prueba_dum.shape
+
+prueba_df_pred=bosque.predict(prueba_dum)
+
+mse(prueba_df_pred, prueba_df.price,squared=False), r2(prueba_df_pred, prueba_df.price)
+
+**CAMBIO JUEVES**
