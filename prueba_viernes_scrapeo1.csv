@@ -1,0 +1,41 @@
+make,model,price,fuel,year,kms,power,doors,shift,is_professional,province
+BMW,Serie 3,11900,Diesel,2008,201000,245,2,Manual,True,Murcia
+MERCEDES-BENZ,Clase A,2990,Gasolina,2001,141060,82,5,Manual,True,Valencia
+SEAT,León,20990,Gasolina,2020,64000,150,5,Manual,True,Zaragoza
+RENAULT,Captur,19990,Gasolina,2021,19000,100,5,Manual,True,Unkown
+TESLA,Model,65899,Eléctrico,2021,7454,351,5,Automático,True,Málaga
+TESLA,Model,64899,Eléctrico,2021,3396,351,5,Automático,True,Málaga
+TESLA,Model,64899,Eléctrico,2021,3100,351,5,Automático,True,Málaga
+CUPRA,Ateca,34990,Gasolina,2020,32500,300,5,Automático,True,Castellón
+CITROEN,C3,10700,Diesel,2016,211000,75,5,Manual,True,Valencia
+TOYOTA,Rav4,19750,Híbrido,2016,95436,197,5,Automático,True,Alicante
+CHEVROLET,Epica,2500,Diesel,2009,271000,150,4,Manual,True,Coruña
+CITROEN,Berlingo,17000,Eléctrico,2018,13840,67,5,Automático,True,Alicante
+FORD,CMax,10200,Diesel,2017,145000,150,5,Manual,True,Badajoz
+CITROEN,C3,16300,Diesel,2021,12194,110,5,Manual,True,Alicante
+RENAULT,Mégane,8100,Diesel,2014,109100,95,5,Manual,True,Madrid
+VOLKSWAGEN,Caddy,13580,Gasolina,2019,47965,110,4,Manual,True,Coruña
+KIA,Sportage,23900,Gasolina,2022,0,150,5,Manual,True,Palencia
+JAGUAR,FPace,59000,Diesel,2021,18500,163,5,Automático,True,Cordoba
+CITROEN,C4,9999,Diesel,2015,140223,115,5,Manual,True,Alicante
+MERCEDES-BENZ,Eqb,66495,Eléctrico,2022,0,228,5,Automático,True,Madrid
+AUDI,Q8,58390,Diesel,2018,143278,286,5,Automático,True,Unkown
+HYUNDAI,Kona,13500,Gasolina,2017,45000,120,5,Manual,True,Madrid
+AUDI,A5,26900,Diesel,2018,105000,190,5,Automático,True,Alicante
+TOYOTA,Yaris,10500,Gasolina,2017,62200,111,5,Manual,True,Guadalajara
+MERCEDES-BENZ,Vito,36790,Eléctrico,2019,13200,116,4,Automático,True,Unkown
+RENAULT,Mégane,13900,Gasolina,2018,52680,140,5,Manual,True,Madrid
+FIAT,Scudo,23900,Diesel,2022,125000,120,4,Manual,True,Madrid
+PEUGEOT,Bipper,3300,Diesel,2014,250000,75,3,Manual,True,Sevilla
+GALLOPER,Super,7900,Diesel,2003,171002,115,3,Manual,True,Barcelona
+VOLKSWAGEN,TCross,18899,Gasolina,2021,9852,95,5,Manual,True,Málaga
+OPEL,Corsa,4793,Diesel,2017,140000,75,3,Manual,True,Madrid
+MERCEDES-BENZ,Clase M,5999,Diesel,2006,275000,190,5,Automático,True,Sevilla
+TOYOTA,Yaris,14900,Gasolina,2021,29335,125,5,Manual,True,Cádiz
+MERCEDES-BENZ,Clase C,12900,Diesel,2013,175200,170,4,Manual,True,Madrid
+BMW,Serie 5,37900,Gasolina,2021,9900,184,4,Automático,True,Madrid
+SUZUKI,Swift,18900,Gasolina,2022,0,129,5,Manual,True,Valladolid
+SUZUKI,Vitara,27000,Híbrido,2022,0,102,5,Automático,True,Valladolid
+AUDI,A3,8400,Diesel,2010,187000,105,5,Manual,True,Almería
+NISSAN,Terrano,7990,Diesel,2004,180000,154,5,Manual,True,Granada
+PEUGEOT,Expert,15694,Diesel,2019,96059,95,4,Manual,True,Sevilla
