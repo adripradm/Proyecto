@@ -1,0 +1,50 @@
+li=[]
+pages = np.arange(1, 3, 1)
+for page in pages:
+    page='https://www.coches.com/coches-segunda-mano/coches-ocasion.htm?page=' + str(page)
+    html=req.get(page).content
+    
+    
+    soup = bs(html, 'html.parser')
+    link=[li.find('a').attrs['href'] for li in soup.find_all(class_='pill-information')]
+    li.append(link)
+    flat_list_link = [item for link in li for item in link]
+
+
+url_='https://www.coches.com/nuevo/coches-segunda-mano/ocasion-peugeot-3008-15bluehdi-allure-s_s-130-en-sevilla.htm?id=6896930'
+
+driver=webdriver.Chrome(PATH, options=opciones)
+driver.get(url_)
+sleep(randint(1,2))
+cookies=driver.find_element_by_xpath('//*[@id="onetrust-accept-btn-handler"]')
+cookies.click()
+sleep(randint(2,10))
+soup = bs(driver.page_source, 'html.parser')
+
+marca =driver.find_element_by_xpath('/html/body/main/section[1]/ol/li[3]/a').text
+modelo= driver.find_element_by_xpath('/html/body/main/section[1]/ol/li[4]/a').text.rsplit(' ', 1)[-1]
+precio=driver.find_element_by_xpath('//*[@id="trackingIndexCardPromotion"]/div[1]/div[2]/div/div[2]/div[1]/div[2]').text.rsplit(' ', 1)[0]
+combustible=driver.find_element_by_xpath('//*[@id="indexCardPpal"]/div[1]/div[3]/div[1]/div[4]/div/p[2]').text
+CV=driver.find_element_by_xpath('//*[@id="trackingIndexCardPromotion"]/div[1]/div[1]/div/div').text.split(' ', 1)[0]
+km=driver.find_element_by_xpath('//*[@id="indexCardPpal"]/div[1]/div[3]/div[1]/div[3]/div/p[2]').text.rsplit(' ', 1)[0]
+lugar=driver.find_element_by_xpath('/html/body/main/section[1]/ol/li[2]/a').text
+año=driver.find_element_by_xpath('//*[@id="indexCardPpal"]/div[1]/div[3]/div[1]/div[1]/div/p[2]').text
+#link=[li.find('a').attrs['href'] for li in soup.find_all(class_='cc-car-card-header')]
+shift=driver.find_element_by_xpath('//*[@id="indexCardPpal"]/div[1]/div[3]/div[1]/div[6]/div/p[2]').text
+puertas=driver.find_element_by_xpath('//*[@id="indexCardPpal"]/div[1]/div[3]/div[1]/div[5]/div/p[2]').text.rsplit(' ', 1)[0]
+profesional=driver.find_element_by_xpath('//*[@id="indexCardPpal"]/div[1]/div[3]/div[1]/div[10]/div/p[2]').text
+
+coches=pd.DataFrame(data=list(marca))
+
+coches['model']=modelo
+coches['price']=precio
+coches['fuel']=combustible
+coches['year']=año
+coches['kms']=km
+coches['power']=CV
+coches['doors']=puertas
+coches['shift']=shift
+coches['is_professional']=profesional
+
+coches['province']=lugar
+
