@@ -1,3 +1,0 @@
-telegram_token='5384268185:AAGZi1ZOR2a8v_IHGBYyFWwU1lA_QQvUOYE'
-telegram_chatid=672110772
-eres tonto adrian??
