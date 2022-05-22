@@ -50005,3 +50005,203 @@ VOLVO,S60,10000,Diésel,2013.0,190000,115.0,4,Manual,True,Vizcaya
 VOLVO,S60,10000,Diesel,2013.0,190000,115.0,4,Manual,True,Vizcaya
 PEUGEOT,Partner,14990,Diésel,2016.0,63000,100.0,5,Manual,True,Tenerife
 SKODA,Scala,18900,Gasolina,2021.0,14200,110.0,5,Automático,True,Cantabria
+HYUNDAI,Accent,1500,Gasolina,2005.0,220000,85.0,5,Manual,True,Madrid
+SEAT,León,5800,Diésel,2012.0,281000,105.0,5,Manual,True,Madrid
+BMW,Serie 2,28900,Diésel,2018.0,40000,190.0,2,Automático,True,A Coruña
+HYUNDAI,Tucson,28090,Diésel,2019.0,21090,136.0,5,Automático,True,Unkown
+OPEL,Corsa,9910,Gasolina,2018.0,73330,90.0,5,Manual,True,Unkown
+VOLKSWAGEN,Golf,16975,Gasolina,2018.0,46000,110.0,5,Manual,True,Cádiz
+PEUGEOT,208,12975,Gasolina,2019.0,51520,82.0,5,Manual,True,Cádiz
+FIAT,500L,14975,Gasolina,2018.0,46500,105.0,5,Manual,True,Cádiz
+AUDI,Q3,24975,Diésel,2017.0,64650,150.0,5,Manual,True,Cádiz
+CITROEN,C3,10975,Gasolina,2017.0,72000,82.0,5,Manual,True,Cádiz
+OPEL,Corsa,13975,Gasolina,2020.0,22850,75.0,5,Manual,True,Cádiz
+PEUGEOT,208,12975,Gasolina,2019.0,26700,82.0,5,Manual,True,Cádiz
+SSANGYONG,Tivoli,13975,Gasolina,2018.0,64000,128.0,5,Manual,True,Cádiz
+FIAT,Tipo,13575,Gasolina,2018.0,65900,120.0,5,Manual,True,Cádiz
+RENAULT,Kadjar,19500,Gasolina,2018.0,50500,160.0,5,Manual,True,Cádiz
+KIA,Rio,10975,Gasolina,2017.0,41000,84.0,5,Manual,True,Cádiz
+VOLKSWAGEN,Golf,16975,Diésel,2016.0,64400,110.0,5,Manual,True,Cádiz
+PEUGEOT,208,12975,Gasolina,2019.0,51520,82.0,5,Manual,True,Cádiz
+VOLKSWAGEN,Golf,18500,Gasolina,2019.0,25800,115.0,5,Manual,True,Cádiz
+BMW,X1,23975,Diésel,2016.0,73350,150.0,5,Automático,True,Cádiz
+PEUGEOT,2008,12975,Gasolina,2017.0,55213,82.0,5,Manual,True,Cádiz
+VOLKSWAGEN,Golf,18500,Gasolina,2019.0,25800,115.0,5,Manual,True,Cádiz
+OPEL,Mokka,16975,Gasolina,2018.0,60970,140.0,5,Manual,True,Cádiz
+FIAT,500L,11975,Gasolina,2017.0,58450,95.0,5,Manual,True,Cádiz
+FIAT,500,12500,Gasolina,2018.0,29900,69.0,3,Manual,True,Cádiz
+OPEL,Corsa,9975,Gasolina,2017.0,60600,90.0,5,Manual,True,Cádiz
+BMW,X2,30820,Gasolina,2019.0,10717,140.0,5,Manual,True,Unkown
+RENAULT,Clio,13975,Gasolina,2018.0,39800,90.0,5,Manual,True,Cádiz
+VOLKSWAGEN,Golf,18475,Gasolina,2019.0,60600,116.0,5,Manual,True,Cádiz
+CITROEN,CElysée,12975,Diésel,2018.0,58400,100.0,4,Manual,True,Cádiz
+SEAT,Toledo,11975,Gasolina,2018.0,57415,95.0,5,Manual,True,Cádiz
+RENAULT,Scénic,11400,Diésel,2014.0,113544,130.0,5,Manual,True,Unkown
+AUDI,A5,25365,Diésel,2016.0,28360,190.0,5,Manual,True,Unkown
+NISSAN,Micra,15130,Gasolina,2019.0,0,100.0,5,Manual,True,Unkown
+NISSAN,Leaf,17252,Eléctrico,2017.0,13485,109.0,5,Automático,True,Unkown
+NISSAN,Nv200,29524,Eléctrico,2020.0,0,109.0,5,Automático,True,Unkown
+NISSAN,Juke,19500,Gasolina,2021.0,4184,114.0,5,Manual,True,Unkown
+NISSAN,Leaf,27356,Eléctrico,2020.0,0,150.0,5,Automático,True,Unkown
+KIA,Ceed,14490,Gasolina,2019.0,35131,120.0,5,Manual,True,Unkown
+NISSAN,XTrail,30975,Diésel,2021.0,19603,150.0,5,Manual,True,Unkown
+NISSAN,Juke,21500,Gasolina,2021.0,9700,117.0,5,Manual,True,Unkown
+NISSAN,XTrail,26900,Gasolina,2021.0,20968,160.0,5,Automático,True,Unkown
+NISSAN,XTrail,29500,Diésel,2021.0,17400,150.0,5,Automático,True,Unkown
+MAZDA,Mazda6,6000,Diésel,2008.0,180000,140.0,4,Manual,True,Unkown
+NISSAN,Patrol,14500,Diésel,2000.0,201695,158.0,3,Manual,True,Unkown
+NISSAN,Micra,13639,Gasolina,2020.0,21325,100.0,5,Manual,True,Unkown
+NISSAN,Micra,6500,Gasolina,2014.0,71806,80.0,5,Manual,True,Unkown
+NISSAN,Qashqai,13990,Diésel,2015.0,139734,110.0,5,Manual,True,Unkown
+NISSAN,Navara,23500,Diésel,2017.0,67836,161.0,4,Manual,True,Unkown
+MERCEDES-BENZ,Clase B,12000,Diésel,2012.0,0,136.0,5,Manual,True,Unkown
+LAND ROVER,Defender,25900,Diésel,1998.0,207946,112.0,2,Manual,True,Unkown
+NISSAN,Pulsar,13900,Diésel,2017.0,58350,110.0,5,Manual,True,Unkown
+NISSAN,Qashqai,27990,Gasolina,2021.0,11200,140.0,5,Manual,True,Unkown
+MINI,Mini,14990,Diésel,2015.0,57754,116.0,3,Manual,True,Unkown
+NISSAN,Juke,19500,Gasolina,2021.0,4184,114.0,5,Manual,True,Unkown
+MERCEDES-BENZ,Clase C,11400,Gasolina,2009.0,84158,156.0,4,Manual,True,Unkown
+PEUGEOT,3008,18500,Diésel,2018.0,153000,120.0,5,Manual,True,Unkown
+NISSAN,Nv200,29524,Eléctrico,2020.0,0,109.0,5,Automático,True,Unkown
+NISSAN,Leaf,28400,Eléctrico,2021.0,285000,150.0,5,Automático,True,Unkown
+NISSAN,XTrail,29500,Diésel,2021.0,17400,150.0,5,Automático,True,Unkown
+NISSAN,Townstar,19900,Gasolina,2022.0,110000,130.0,5,Manual,True,Unkown
+NISSAN,Qashqai,25900,Gasolina,2022.0,1567,140.0,5,Manual,True,Unkown
+NISSAN,XTrail,30975,Diésel,2021.0,19603,150.0,5,Manual,True,Unkown
+OPEL,Mokka,16900,Diésel,2018.0,62500,136.0,5,Automático,True,Unkown
+NISSAN,Qashqai,29900,Gasolina,2022.0,0,158.0,5,Automático,True,Unkown
+OPEL,Corsa,8900,Gasolina,2017.0,68900,75.0,3,Manual,True,Unkown
+NISSAN,Micra,16500,Gasolina,2022.0,0,92.0,5,Manual,True,Unkown
+NISSAN,Qashqai,32900,Gasolina,2022.0,0,158.0,5,Automático,True,Unkown
+FORD,Ecosport,19510,Gasolina,2019.0,0,125.0,5,Manual,True,Unkown
+NISSAN,Qashqai,23500,Gasolina,2021.0,12855,140.0,5,Manual,True,Unkown
+NISSAN,Micra,11900,Gasolina,2019.0,18162,100.0,5,Manual,True,Unkown
+KIA,Ceed,18590,Gasolina,2020.0,20535,120.0,5,Manual,True,Unkown
+NISSAN,Note,9400,Diésel,2017.0,105763,90.0,5,Manual,True,Unkown
+FORD,Puma,20900,Gasolina,2021.0,2859,125.0,5,Manual,True,Unkown
+FORD,Ecosport,21000,Gasolina,2021.0,0,125.0,5,Manual,True,Unkown
+FORD,Ecosport,22575,Gasolina,2021.0,0,125.0,5,Manual,True,Unkown
+MINI,Mini,11300,Gasolina,2013.0,131000,122.0,2,Manual,True,Unkown
+FORD,Focus,21500,Gasolina,2019.0,37872,124.0,5,Manual,True,Unkown
+FORD,Focus,17500,Gasolina,2020.0,5400,100.0,5,Manual,True,Unkown
+FORD,Ecosport,20895,Gasolina,2021.0,807000,125.0,5,Manual,True,Unkown
+FORD,Ecosport,21939,Gasolina,2021.0,0,125.0,5,Manual,True,Unkown
+FORD,Ecosport,20950,Gasolina,2021.0,0,125.0,5,Manual,True,Unkown
+FORD,Focus,26000,Diésel,2019.0,9281,150.0,5,Manual,True,Unkown
+FORD,Focus,27298,Diésel,2021.0,33802,120.0,5,Manual,True,Unkown
+FORD,Puma,27000,Gasolina,2022.0,0,125.0,5,Manual,True,Unkown
+FORD,Puma,26985,Gasolina,2022.0,5915,155.0,5,Manual,True,Unkown
+SUZUKI,Swift,3500,Gasolina,2005.0,196189,92.0,5,Manual,True,Unkown
+FORD,Kuga,19990,Gasolina,2019.0,31786,120.0,5,Manual,True,Unkown
+FORD,Kuga,32125,Híbrido,2021.0,29300,225.0,5,Automático,True,Unkown
+FORD,Ecosport,16300,Gasolina,2020.0,30198,100.0,5,Manual,True,Unkown
+FORD,Ecosport,15900,Gasolina,2019.0,21500,125.0,5,Manual,True,Unkown
+FORD,Mondeo,17500,Diésel,2015.0,88097,150.0,5,Manual,True,Unkown
+FORD,Kuga,42900,Híbrido,2022.0,2021,225.0,5,Automático,True,Unkown
+FORD,Kuga,16900,Gasolina,2018.0,61197,120.0,5,Manual,True,Unkown
+FIAT,Punto,9200,Diésel,2016.0,73463,95.0,5,Manual,True,Unkown
+CITROEN,C4,13200,Diésel,2017.0,123396,120.0,5,Manual,True,Unkown
+OPEL,Grandland,18800,Diésel,2019.0,114400,130.0,5,Manual,True,Unkown
+CITROEN,C3,19110,Gasolina,2021.0,0,110.0,5,Manual,True,Unkown
+CITROEN,C3,15600,Gasolina,2022.0,0,83.0,5,Manual,True,Unkown
+CITROEN,C3,16800,Gasolina,2022.0,0,83.0,5,Manual,True,Unkown
+CITROEN,C5,24700,Gasolina,2022.0,0,130.0,5,Manual,True,Unkown
+CITROEN,C4,27900,Diésel,2022.0,0,130.0,5,Automático,True,Unkown
+CITROEN,C4,16800,Gasolina,2018.0,1432,110.0,5,Manual,True,Unkown
+CITROEN,C3,13300,Diésel,2018.0,28761,75.0,5,Manual,True,Unkown
+CITROEN,C3,13100,Diésel,2018.0,21000,75.0,5,Manual,True,Unkown
+CITROEN,C5,24800,Diésel,2019.0,33532,176.0,5,Automático,True,Unkown
+CITROEN,C5,24200,Diésel,2020.0,47973,130.0,5,Manual,True,Unkown
+CITROEN,C3,19800,Diésel,2022.0,890000,110.0,5,Manual,True,Unkown
+FIAT,Punto,7600,Gasolina,2015.0,89975,69.0,3,Manual,True,Unkown
+CITROEN,C3,13300,Diésel,2019.0,17509,99.0,5,Manual,True,Unkown
+DS,Ds4,49600,Híbrido,2021.0,8345,225.0,5,Automático,True,Unkown
+CITROEN,C5,32800,Híbrido,2020.0,10122,225.0,5,Automático,True,Unkown
+CITROEN,C4,27700,Eléctrico,2021.0,4890,136.0,5,Automático,True,Unkown
+CITROEN,C4,17800,Diésel,2015.0,70429,115.0,5,Manual,True,Unkown
+CITROEN,C3,18800,Gasolina,2021.0,100000,110.0,5,Manual,True,Unkown
+LAND ROVER,Range,21700,Diésel,2013.0,72200,190.0,3,Manual,True,Unkown
+CITROEN,C1,12200,Gasolina,2022.0,0,72.0,5,Manual,True,Unkown
+MERCEDES-BENZ,Clase B,11400,Diésel,2014.0,195790,109.0,5,Manual,True,Unkown
+OPEL,Astra,10300,Diésel,2013.0,115970,110.0,5,Manual,True,Unkown
+FORD,Fiesta,14456,Gasolina,2021.0,0,75.0,3,Manual,True,Unkown
+FORD,Ecosport,19624,Gasolina,2021.0,0,125.0,5,Manual,True,Unkown
+FORD,Ecosport,19510,Gasolina,2019.0,0,125.0,5,Manual,True,Unkown
+FORD,Ecosport,20152,Gasolina,2021.0,0,125.0,5,Manual,True,Unkown
+FORD,Mustang,50641,Gasolina,2021.0,0,455.0,2,Manual,True,Unkown
+FORD,Focus,21500,Gasolina,2019.0,37872,124.0,5,Manual,True,Unkown
+FORD,Fiesta,17800,Gasolina,2021.0,0,125.0,5,Manual,True,Unkown
+FORD,Puma,20504,Gasolina,2021.0,15230,125.0,5,Manual,True,Unkown
+FORD,Focus,19850,Gasolina,2021.0,0,125.0,5,Manual,True,Unkown
+FORD,Focus,20800,Gasolina,2019.0,20303,124.0,5,Manual,True,Unkown
+FORD,Ecosport,20196,Gasolina,2021.0,0,125.0,5,Manual,True,Unkown
+FORD,Ecosport,20100,Gasolina,2021.0,1250,125.0,5,Manual,True,Unkown
+FORD,Kuga,27200,Diésel,2021.0,31230,150.0,5,Manual,True,Unkown
+FORD,Kuga,27242,Gasolina,2020.0,0,150.0,5,Manual,True,Unkown
+FORD,Focus,20500,Gasolina,2021.0,16040,125.0,5,Manual,True,Unkown
+FORD,Kuga,18600,Gasolina,2019.0,22001,120.0,5,Manual,True,Unkown
+BMW,Serie 1,17800,Diésel,2017.0,65665,116.0,5,Manual,True,Málaga
+FORD,Focus,19100,Gasolina,2019.0,6503,124.0,5,Manual,True,Unkown
+SEAT,León,21800,Diésel,2019.0,23173,150.0,5,Automático,True,Unkown
+MINI,Mini,20400,Gasolina,2019.0,24436,136.0,5,Manual,True,Unkown
+OPEL,Zafira,11770,Diésel,2011.0,47000,165.0,5,Manual,True,Barcelona
+TOYOTA,CHr,27200,Híbrido,2021.0,3797,184.0,5,Automático,True,Unkown
+FIAT,Tipo,11730,Gasolina,2019.0,58298,95.0,5,Manual,True,Unkown
+AUDI,A1,16300,Diésel,2017.0,72266,90.0,3,Manual,True,Unkown
+VOLKSWAGEN,Polo,12640,Gasolina,2018.0,69739,75.0,5,Manual,True,Unkown
+AUDI,Q2,27800,Diésel,2022.0,0,116.0,5,Manual,True,Huesca
+AUDI,Q2,27800,Diésel,2022.0,0,116.0,5,Manual,True,Huesca
+AUDI,Q2,29800,Diésel,2022.0,0,116.0,5,Automático,True,Huesca
+AUDI,Q3,43800,Diésel,2022.0,0,150.0,5,Automático,True,Huesca
+AUDI,A3,30800,Diésel,2022.0,0,116.0,5,Manual,True,Huesca
+FORD,Transit,3300,Diésel,2001.0,338000,75.0,4,Manual,True,Granada
+AUDI,A3,31800,Diésel,2022.0,0,150.0,4,Manual,True,Huesca
+HYUNDAI,Ioniq,17700,Híbrido,2018.0,75700,141.0,5,Automático,True,Unkown
+PEUGEOT,508,15400,Diésel,2017.0,62929,120.0,4,Manual,True,Unkown
+AUDI,A3,35000,Gasolina,2016.0,99000,367.0,5,Automático,True,Alicante
+LAND ROVER,Range,43900,Diésel,2014.0,95000,306.0,5,Automático,True,Alicante
+VOLKSWAGEN,Caddy,15900,Diésel,2016.0,140000,150.0,4,Manual,True,Alicante
+HYUNDAI,I20,11900,Gasolina,2018.0,72000,100.0,5,Automático,True,Madrid
+CITROEN,C4,8000,Diésel,2011.0,105000,112.0,5,Manual,True,Granada
+SUBARU,Wrx,27900,Gasolina,2012.0,140000,300.0,5,Manual,True,Alicante
+MERCEDES-BENZ,Citan,10900,Diésel,2016.0,120000,110.0,5,Manual,True,Alicante
+SEAT,Arona,15910,Gasolina,2018.0,70387,95.0,5,Manual,True,Unkown
+RENAULT,Talisman,18100,Diésel,2017.0,47794,130.0,4,Manual,True,Unkown
+CITROEN,Jumpy,18990,Diésel,2019.0,68000,122.0,4,Manual,True,Madrid
+LAND ROVER,Discovery,52900,Diésel,2020.0,23490,240.0,5,Automático,True,Córdoba
+JAGUAR,EPace,55900,Diésel,2022.0,0,163.0,5,Automático,True,Córdoba
+LAND ROVER,Discovery,20000,Diésel,2017.0,169529,150.0,5,Manual,True,Córdoba
+LAND ROVER,Range,69900,Diésel,2021.0,22467,204.0,5,Automático,True,Córdoba
+LAND ROVER,Range,38900,Diésel,2021.0,13951,163.0,5,Manual,True,Córdoba
+LAND ROVER,Range,65900,Diésel,2021.0,8000,180.0,5,Automático,True,Córdoba
+JAGUAR,FPace,34400,Diésel,2017.0,84298,180.0,5,Automático,True,Córdoba
+JAGUAR,EPace,49900,Diésel,2021.0,14522,163.0,5,Automático,True,Córdoba
+JAGUAR,FPace,44900,Diésel,2019.0,35000,180.0,5,Automático,True,Córdoba
+LAND ROVER,Range,81900,Híbrido,2021.0,13562,404.0,5,Automático,True,Córdoba
+LAND ROVER,Discovery,29900,Diésel,2019.0,61977,150.0,5,Manual,True,Córdoba
+JAGUAR,Xf,21900,Diésel,2017.0,147487,180.0,4,Automático,True,Córdoba
+JAGUAR,EPace,42900,Diésel,2021.0,26882,150.0,5,Automático,True,Córdoba
+LAND ROVER,Range,84900,Diésel,2021.0,14256,249.0,5,Automático,True,Córdoba
+JAGUAR,Xf,37900,Diésel,2020.0,30824,180.0,4,Automático,True,Córdoba
+JAGUAR,FPace,65900,Diésel,2021.0,13530,163.0,5,Automático,True,Córdoba
+LAND ROVER,Discovery,52900,Diésel,2020.0,23490,240.0,5,Automático,True,Cádiz
+JAGUAR,EPace,55900,Diésel,2022.0,0,163.0,5,Automático,True,Cádiz
+JAGUAR,FPace,35900,Diésel,2016.0,75737,180.0,5,Automático,True,Córdoba
+JAGUAR,Xe,41800,Diésel,2022.0,0,204.0,4,Automático,True,Cádiz
+LAND ROVER,Range,65900,Diésel,2021.0,8000,180.0,5,Automático,True,Cádiz
+JAGUAR,FPace,65900,Diésel,2021.0,13530,163.0,5,Automático,True,Cádiz
+LAND ROVER,Discovery,20000,Diésel,2017.0,169529,150.0,5,Manual,True,Cádiz
+LAND ROVER,Range,69900,Diésel,2021.0,22467,204.0,5,Automático,True,Cádiz
+LAND ROVER,Range,81900,Híbrido,2021.0,13562,404.0,5,Automático,True,Cádiz
+JAGUAR,Xf,21900,Diésel,2017.0,147487,180.0,4,Automático,True,Cádiz
+LAND ROVER,Range,84900,Diésel,2021.0,14256,249.0,5,Automático,True,Cádiz
+JAGUAR,FPace,34400,Diésel,2017.0,84298,180.0,5,Automático,True,Cádiz
+RENAULT,Kangoo,13017,Diésel,2017.0,135468,90.0,5,Manual,True,Sevilla
+JEEP,Renegade,20290,Gasolina,2021.0,9495,120.0,5,Manual,True,Madrid
+JAGUAR,Xf,37900,Diésel,2020.0,30824,180.0,4,Automático,True,Cádiz
+LAND ROVER,Discovery,29900,Diésel,2019.0,61977,150.0,5,Manual,True,Cádiz
+JAGUAR,FPace,35900,Diésel,2016.0,75737,180.0,5,Automático,True,Cádiz
+BMW,Serie 5,25400,Gasolina,2015.0,57548,306.0,4,Automático,True,Unkown
+BMW,Serie 5,25432,Diésel,2017.0,129061,190.0,4,Automático,True,Valencia
+OPEL,Corsa,14990,Diésel,2020.0,4683,102.0,5,Manual,True,Unkown
+OPEL,Corsa,14790,Diésel,2020.0,3045,102.0,5,Manual,True,Unkown
